@@ -34,9 +34,9 @@ public class set {
 			System.out.println(r);
 			
 			
-			
-			
-			
+			System.out.println("october");
+			System.out.println("november");
+			System.out.println("december");
 			
 			
 			
