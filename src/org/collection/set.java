@@ -32,7 +32,8 @@ public class set {
 			r.add(20);
 			r.add(2,30);
 			System.out.println(r);
-			
+			System.out.println("abcd");
+			System.out.println("abcd");
 			
 			
 			
